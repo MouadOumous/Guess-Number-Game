@@ -86,6 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name] - [mouadoumous@example.com](mailto:mouadoumous@gmail.com)
+[Your Name] - [mouadoumous@gmail.com](mailto:mouadoumous@gmail.com)
 
 Feel free to reach out if you have any questions or suggestions!
